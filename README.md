@@ -1,5 +1,5 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
-# name:Dejashini T P
+# name:Farhana H
 # Reg num:212223230057
 # Aim: 
 To perform the Exploration of Prompting Techniques for Video Generation
